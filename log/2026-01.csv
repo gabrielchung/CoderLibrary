@@ -13,4 +13,4 @@ timestamp,actor,action,notes
 2026-01-22,human,logging_structure_decided,Decision made to organize logs by month under a dedicated log directory
 2026-01-22,human,log_directory_created,Log directory created to store monthly activity logs
 2026-01-22,human,monthly_log_created,File log/2026-01.csv created as the first monthly activity log
-2026-01-22,human,logging_initialized,Activity logging formally started with historical entries reconstructed from conversation
+2026-01-22,ai,logging_initialized,Activity logging formally started by reconstructing historical entries from prior conversation
