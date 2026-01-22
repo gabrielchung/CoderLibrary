@@ -1,1 +1,16 @@
-
+timestamp,actor,action,notes
+2026-01-22,human,project_started,CoderLibrary repository created as a new project intended to be a living library for coders
+2026-01-22,human,concept_defined,Project framed as fully automated by AI using a workflow later named vibe working
+2026-01-22,human,term_coined,Vibe working coined as the broader sibling of vibe coding to describe intent-driven AI execution beyond code
+2026-01-22,ai,readme_drafted,Initial README.md summary drafted based on human-provided intent and tone guidance
+2026-01-22,human,readme_reviewed,README summary reviewed and iteratively refined through feedback and preference adjustments
+2026-01-22,ai,readme_refined,README summary rewritten multiple times to adjust sentence length punctuation and flow
+2026-01-22,human,readme_approved,README summary approved as final project description
+2026-01-22,human,issue_created,Issue #1 created titled Add a Universal Scratchpad for Quick Coding Experiments
+2026-01-22,human,issue_created,Issue #2 created titled Start activity logging
+2026-01-22,human,logging_decision,Decision made to introduce explicit activity logging beyond commit history
+2026-01-22,human,logging_format_chosen,CSV selected as the logging format for simplicity machine readability and append-only behavior
+2026-01-22,human,logging_structure_decided,Decision made to organize logs by month under a dedicated log directory
+2026-01-22,human,log_directory_created,Log directory created to store monthly activity logs
+2026-01-22,human,monthly_log_created,File log/2026-01.csv created as the first monthly activity log
+2026-01-22,human,logging_initialized,Activity logging formally started with historical entries reconstructed from conversation
